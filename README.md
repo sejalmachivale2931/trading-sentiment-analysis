@@ -65,6 +65,15 @@ This project analyzes how trader performance and behavior change based on market
 * Predictive modeling was not feasible due to small sample size
 
 ---
+INSIGHTS:
+1. PnL differs between Fear and Greed.
+2. Traders change trade frequency based on sentiment.
+3. Larger positions are taken during Greed.
+
+STRATEGY:
+1. Reduce position size during Fear.
+2. Increase exposure during Greed with risk control.
+
 
 ## 📈 Outputs
 
